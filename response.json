@@ -1,0 +1,30 @@
+{"class": {"student": [
+    {
+        "firstname": "Naman",
+        "subject": "Math",
+        "id": 101,
+        "marks": 83,
+        "lastname": "Kumar"
+    },
+    {
+        "firstname": "Kapil",
+        "subject": "Chemistry",
+        "id": 102,
+        "marks": 60,
+        "lastname": "Kumar"
+    },
+    {
+        "firstname": "Harsh",
+        "subject": "English",
+        "id": 103,
+        "marks": 70,
+        "lastname": "Singh"
+    },
+    {
+        "firstname": "Jitesh",
+        "subject": "Physics",
+        "id": 104,
+        "marks": 76,
+        "lastname": "Singh"
+    }
+]}}
